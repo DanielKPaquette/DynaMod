@@ -1,11 +1,14 @@
-# discover.medical.dyna-mods
-Unity project for displaying dynamic 3D models
+# DynaMods
+Unity project for displaying dynamic 3D models, made in a week as a PoC for fun
 
 ## Version
-This was made using Unity 3D version 2018.3.0f2 personal available dor download here:
+This was made using Unity 3D version 2018.3.0f2 personal available for download here:
 https://store.unity.com/download
 
 > Please note that Unity requires purchase of a pro license if the company makes more than 100k a year through its use.
+
+## Running the Executable:
+Simply download either the `Windows Executable` or `Mac Excecutable` folder and run either the `.exe` or `.app`
 
 ## Opening and using the project
 To open the project simply clone this repo and download unity
